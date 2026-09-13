@@ -4,8 +4,8 @@ Multiple IP is an Android app for separating game and app IPs from each other.
 Way better than nekobox or proxifier or xprivacylua
 No root needed
 
-<img width="723" height="923" alt="Screenshot_3" src="https://github.com/user-attachments/assets/cd86e725-4720-4597-9b14-fa38b99bfc12" />
 
+<img width="624" height="935" alt="Screenshot_18" src="https://github.com/user-attachments/assets/0503a72d-5583-462b-8479-1965e9803ea7" />
+<img width="625" height="931" alt="Screenshot_19" src="https://github.com/user-attachments/assets/9fb31ea0-4651-4ee7-8e03-c3535fb98f8c" />
 
-<img width="246" height="103" alt="Screenshot_1" src="https://github.com/user-attachments/assets/9d9bb16b-2417-4064-8d92-e046b8a60e59" />
 
